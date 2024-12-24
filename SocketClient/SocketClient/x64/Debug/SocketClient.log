@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\a4444\OneDrive\바탕 화면\코딩용\C++\SocketClient\SocketClient\소스.cpp(77,39): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SocketClient.vcxproj -> C:\Users\a4444\OneDrive\바탕 화면\코딩용\C++\SocketClient\x64\Debug\SocketClient.exe

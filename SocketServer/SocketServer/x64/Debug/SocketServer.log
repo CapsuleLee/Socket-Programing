@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\a4444\OneDrive\바탕 화면\코딩용\C++\SocketServer\SocketServer\소스.cpp(72,55): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\a4444\OneDrive\바탕 화면\코딩용\C++\SocketServer\SocketServer\소스.cpp(90,43): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SocketServer.vcxproj -> C:\Users\a4444\OneDrive\바탕 화면\코딩용\C++\SocketServer\x64\Debug\SocketServer.exe
